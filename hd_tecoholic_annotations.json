@@ -1,0 +1,669 @@
+{
+  "classes": [
+    "PERCENTAGE",
+    "MATERIAL",
+    "FEATURE",
+    "PRODUCT",
+    "SIZE",
+    "LIVING_BEING",
+    "TEMPERATURE",
+    "COLOR",
+    "SHAPE",
+    "ORG",
+    "AREA"
+  ],
+  "annotations": [
+    [
+      "This heavyweight, water-repellent hooded sweatshirt has a zip front for fast layering. ORIGINAL FIT. 13 oz., 75% cotton/25% polyester blend with Rain Defender durable water repellent. Attached, jersey-lined three-piece hood with drawcord closure. Antique-finish brass front zipper. Two front hand-warmer pockets have a hidden security pocket inside. Stretchable, spandex-reinforced rib-knit cuffs and waistband. Locker loop facilitates hanging.",
+      {
+        "entities": [
+          [5, 16, "FEATURE"],
+          [18, 33, "FEATURE"],
+          [41, 51, "PRODUCT"],
+          [109, 112, "PERCENTAGE"],
+          [124, 133, "MATERIAL"],
+          [145, 149, "FEATURE"],
+          [150, 158, "FEATURE"],
+          [159, 166, "FEATURE"],
+          [167, 183, "FEATURE"],
+          [194, 206, "FEATURE"],
+          [247, 261, "FEATURE"],
+          [262, 267, "MATERIAL"],
+          [292, 303, "FEATURE"],
+          [326, 334, "FEATURE"],
+          [350, 361, "FEATURE"],
+          [363, 381, "FEATURE"]
+        ]
+      }
+    ],
+    [
+      "If you need more length between your existing wireless device and Hi-Gain Antenna, this is the product for you. It's compatible with most Wi-Fi Antennas, so it is easy for you to extend your wireless network. Just replace your existing cable that runs between your wireless device and Antenna and you're ready to use your network with extended range.",
+      {
+        "entities": [
+          [46, 54, "FEATURE"],
+          [55, 61, "PRODUCT"],
+          [66, 73, "FEATURE"],
+          [74, 81, "PRODUCT"],
+          [138, 143, "FEATURE"],
+          [144, 152, "PRODUCT"],
+          [191, 199, "FEATURE"],
+          [236, 241, "MATERIAL"],
+          [265, 273, "FEATURE"],
+          [274, 280, "PRODUCT"],
+          [285, 292, "PRODUCT"],
+          [344, 349, "SIZE"]
+        ]
+      }
+    ],
+    [
+      "Polyester cover resembling rich Italian tapestries wraps your pet in comfort and style. 100% recycled polyester high loft MemoryFiber fill keeps pets elevated off cold floors for relief on tired joints and pressure points. A great fit for pets up to 100 lbs. Zippered removable cover is machine washable in cold water only. To dry, use a delicate cycle or gentle setting with very low heat.",
+      {
+        "entities": [
+          [0, 9, "MATERIAL"],
+          [40, 50, "PRODUCT"],
+          [51, 56, "PRODUCT"],
+          [62, 65, "LIVING_BEING"],
+          [88, 92, "PERCENTAGE"],
+          [102, 111, "MATERIAL"],
+          [112, 116, "TEMPERATURE"],
+          [122, 133, "MATERIAL"],
+          [145, 149, "LIVING_BEING"],
+          [163, 167, "TEMPERATURE"],
+          [195, 201, "PRODUCT"],
+          [239, 243, "LIVING_BEING"],
+          [250, 258, "SIZE"],
+          [278, 283, "PRODUCT"],
+          [287, 294, "PRODUCT"],
+          [307, 311, "TEMPERATURE"],
+          [327, 330, "TEMPERATURE"],
+          [385, 389, "TEMPERATURE"]
+        ]
+      }
+    ],
+    [
+      "It features a rectangle shape. This vessel set is designed to be installed as a undermount vessel set. It is constructed with ceramic. This vessel set comes with an enamel glaze finish in White color. It is designed for a deck mount faucet.",
+      {
+        "entities": [
+          [24, 30, "SHAPE"],
+          [36, 42, "PRODUCT"],
+          [50, 58, "FEATURE"],
+          [91, 97, "PRODUCT"],
+          [126, 134, "MATERIAL"],
+          [140, 146, "PRODUCT"],
+          [165, 171, "PRODUCT"],
+          [188, 193, "COLOR"],
+          [207, 215, "FEATURE"],
+          [233, 239, "PRODUCT"]
+        ]
+      }
+    ],
+    [
+      "This 9 in. black full grain leather logger boot is Tough. With plain soft toe and rubber outsole it provides dependable traction with a comfortable fit. It is made with Goodyear Welt Construction so it is sturdy and secure.",
+      {
+        "entities": [
+          [5, 10, "SIZE"],
+          [11, 16, "COLOR"],
+          [28, 35, "MATERIAL"],
+          [51, 57, "FEATURE"],
+          [69, 73, "FEATURE"],
+          [74, 77, "MATERIAL"],
+          [82, 88, "MATERIAL"],
+          [120, 128, "FEATURE"],
+          [148, 152, "SIZE"],
+          [205, 211, "FEATURE"],
+          [216, 222, "FEATURE"]
+        ]
+      }
+    ],
+    [
+      "With robust structure and sophisticated canvas printing, this 3-panel screen is colorfully designed to be a great way to carve out space in your room or anywhere around the home. Not only will this elegant piece give you the needed exclusivity but it will also add inspiring style and beauty to your decor. This screen creatively features canvas print of a different and complementary images on each side. With its lightweight construction, our screen will definitely fill your space with inspiring visual flair for many-Years to come. 3-panel screen finished on both sides Canvas printing.",
+      {
+        "entities": [
+          [5, 11, "FEATURE"],
+          [26, 39, "FEATURE"],
+          [40, 46, "PRODUCT"],
+          [62, 69, "PRODUCT"],
+          [70, 76, "PRODUCT"],
+          [80, 90, "FEATURE"],
+          [91, 99, "FEATURE"],
+          [131, 136, "AREA"],
+          [145, 149, "AREA"],
+          [153, 161, "AREA"],
+          [173, 178, "AREA"],
+          [198, 205, "FEATURE"],
+          [265, 274, "FEATURE"],
+          [285, 291, "FEATURE"],
+          [300, 306, "AREA"],
+          [339, 345, "FEATURE"],
+          [385, 391, "PRODUCT"],
+          [415, 426, "FEATURE"],
+          [445, 451, "PRODUCT"],
+          [499, 505, "FEATURE"],
+          [544, 550, "PRODUCT"],
+          [574, 580, "FEATURE"]
+        ]
+      }
+    ],
+    [
+      "BEHR PRO i300 Semi-Gloss Interior Paint has a sleek, radiant sheen appearance. This professional quality latex paint has superior hide and coverage, excellent sprayability, spray and back-roll, and superior touch-up. Use on properly prepared and primed drywall, concrete, masonry, wood and metal surfaces in both residential and commercial applications.",
+      {
+        "entities": [
+          [0, 4, "PRODUCT"],
+          [5, 8, "FEATURE"],
+          [9, 13, "PRODUCT"],
+          [14, 24, "COLOR"],
+          [25, 33, "AREA"],
+          [34, 39, "PRODUCT"],
+          [46, 51, "FEATURE"],
+          [53, 60, "FEATURE"],
+          [61, 66, "FEATURE"],
+          [67, 78, "FEATURE"],
+          [84, 96, "FEATURE"],
+          [105, 110, "PRODUCT"],
+          [111, 116, "PRODUCT"],
+          [121, 129, "FEATURE"],
+          [130, 134, "FEATURE"],
+          [139, 147, "FEATURE"],
+          [149, 158, "FEATURE"],
+          [159, 171, "FEATURE"],
+          [173, 178, "FEATURE"],
+          [183, 192, "FEATURE"],
+          [198, 206, "FEATURE"],
+          [207, 216, "FEATURE"],
+          [224, 232, "FEATURE"],
+          [233, 241, "FEATURE"],
+          [246, 252, "FEATURE"],
+          [253, 260, "MATERIAL"],
+          [262, 270, "MATERIAL"],
+          [272, 279, "MATERIAL"],
+          [281, 285, "MATERIAL"],
+          [290, 295, "MATERIAL"],
+          [296, 304, "AREA"],
+          [313, 324, "AREA"],
+          [329, 339, "AREA"],
+          [340, 352, "PRODUCT"]
+        ]
+      }
+    ],
+    [
+      "DEWALT High Performance 0.045 in. Metal Cutting Wheels have a thin 0.045 in. cutting edge design for fast burr free cutting. They have a proprietary aluminum oxide grain combination for aggressive cutting action and the proprietary material mix ensures durable long life wheels. They have 2-full sheets of fiberglass for durability and user safety. These wheels are ideal for high performance cutting in all types of ferrous metals and stainless steel.",
+      {
+        "entities": [
+          [0, 6, "ORG"],
+          [7, 11, "TEMPERATURE"],
+          [12, 23, "FEATURE"],
+          [24, 33, "SIZE"],
+          [34, 39, "MATERIAL"],
+          [40, 47, "FEATURE"],
+          [48, 54, "PRODUCT"],
+          [67, 76, "SIZE"],
+          [77, 84, "FEATURE"],
+          [85, 89, "FEATURE"],
+          [90, 96, "FEATURE"],
+          [106, 110, "FEATURE"],
+          [116, 124, "FEATURE"],
+          [149, 157, "MATERIAL"],
+          [158, 163, "MATERIAL"],
+          [197, 204, "FEATURE"],
+          [232, 240, "MATERIAL"],
+          [253, 260, "FEATURE"],
+          [261, 265, "FEATURE"],
+          [271, 278, "PRODUCT"],
+          [306, 316, "MATERIAL"],
+          [321, 331, "FEATURE"],
+          [336, 340, "LIVING_BEING"],
+          [341, 348, "FEATURE"],
+          [381, 392, "FEATURE"],
+          [393, 400, "FEATURE"],
+          [417, 424, "MATERIAL"],
+          [425, 431, "MATERIAL"],
+          [436, 445, "MATERIAL"],
+          [446, 451, "MATERIAL"]
+        ]
+      }
+    ],
+    [
+      "This Ring Bar Cart is sure to make a statement in any room. This carts features a metal frame in gold and the two shelves are made of mirror with an antique finish. We offer a wide variety of furniture and decorative accessories to meet all of your decor needs.",
+      {
+        "entities": [
+          [5, 9, "SHAPE"],
+          [10, 13, "PRODUCT"],
+          [14, 18, "PRODUCT"],
+          [54, 59, "AREA"],
+          [65, 70, "PRODUCT"],
+          [71, 79, "FEATURE"],
+          [82, 87, "MATERIAL"],
+          [97, 101, "MATERIAL"],
+          [134, 140, "FEATURE"],
+          [192, 201, "PRODUCT"],
+          [206, 216, "FEATURE"],
+          [249, 254, "AREA"]
+        ]
+      }
+    ],
+    [
+      "This transitional vanity table proudly displays gently curved legs that help draw attention to the carved details on the drawer panels. Spread out your makeup and beauty products across the two shelves or in the multiple drawers so everything is in one place. It enhances the beauty of the room.",
+      {
+        "entities": [
+          [5, 17, "FEATURE"],
+          [18, 24, "FEATURE"],
+          [25, 30, "PRODUCT"],
+          [39, 47, "FEATURE"],
+          [48, 54, "FEATURE"],
+          [55, 61, "FEATURE"],
+          [62, 66, "PRODUCT"],
+          [121, 127, "FEATURE"],
+          [163, 169, "FEATURE"],
+          [253, 259, "AREA"],
+          [276, 282, "FEATURE"],
+          [290, 294, "AREA"]
+        ]
+      }
+    ],
+    [
+      "Its easy to add a decorative touch to your home with these beautiful Louvered Shutters from Ply Gem. Inspired by the classic Old World and early American style, they capture the rich, natural texture of real wood without the splitting, cracking and peeling. Built strong and thick, they're high quality and simple to install. Best of all, they're guaranteed to last a lifetime. Ply Gem shutters feature a tough acrylic coating to protect against sun, wind and rain, and they come in a wide variety of standard heights and widths as well as special order sizes to fit virtually any window. Ply Gem Louvered Shutters can be paired with arched tops to accent circle top windows for added height and impact.",
+      {
+        "entities": [
+          [18, 28, "FEATURE"],
+          [43, 47, "AREA"],
+          [59, 68, "FEATURE"],
+          [92, 95, "PRODUCT"],
+          [96, 100, "PRODUCT"],
+          [117, 124, "FEATURE"],
+          [154, 159, "FEATURE"],
+          [225, 234, "FEATURE"],
+          [236, 244, "FEATURE"],
+          [249, 257, "FEATURE"],
+          [264, 270, "FEATURE"],
+          [275, 280, "FEATURE"],
+          [290, 294, "TEMPERATURE"],
+          [295, 302, "FEATURE"],
+          [307, 313, "FEATURE"],
+          [378, 381, "PRODUCT"],
+          [382, 385, "PRODUCT"],
+          [405, 410, "FEATURE"],
+          [411, 418, "MATERIAL"],
+          [419, 426, "PRODUCT"],
+          [430, 437, "FEATURE"],
+          [446, 449, "TEMPERATURE"],
+          [451, 455, "TEMPERATURE"],
+          [460, 464, "TEMPERATURE"],
+          [589, 592, "PRODUCT"],
+          [593, 596, "PRODUCT"],
+          [606, 614, "PRODUCT"],
+          [656, 662, "SHAPE"],
+          [667, 674, "PRODUCT"]
+        ]
+      }
+    ],
+    [
+      "BEHR PREMIUM PLUS Interior Paint & Primer offers exceptional durability and hide with a finish that resists mildew and stains. In addition, you'll enjoy the benefits of a low odor paint. PREMIUM PLUS is highly ranked by independent 3rd party labs and meets LEED and GREENGUARD GOLD requirements.",
+      {
+        "entities": [
+          [0, 4, "PRODUCT"],
+          [5, 12, "FEATURE"],
+          [13, 17, "FEATURE"],
+          [27, 32, "PRODUCT"],
+          [35, 41, "PRODUCT"],
+          [61, 71, "FEATURE"],
+          [108, 114, "FEATURE"],
+          [119, 126, "FEATURE"],
+          [171, 174, "TEMPERATURE"],
+          [180, 186, "PRODUCT"],
+          [187, 194, "FEATURE"],
+          [195, 199, "FEATURE"],
+          [203, 209, "FEATURE"],
+          [210, 216, "FEATURE"],
+          [220, 231, "FEATURE"],
+          [257, 261, "MATERIAL"],
+          [277, 281, "MATERIAL"]
+        ]
+      }
+    ],
+    [
+      "BlindsAvenue light filtering cellular shades will save you money on your energy bills. Your home stays cooler in the summer and warmer in the winter with our 9/16 in. single cell light filtering cellular shade. BlindsAvenue neutral tones and popular colors will give you the ability to design your room in style. Strong PVC rails will give you the durability that you need. The light filtering fabric will give you complete privacy while letting light to filter into the room. BlindsAvenue light filtering cellular shades can be ordered to fit any window between 18 in. and 72 in. wide and up to 72 in. tall. BlindsAvenue light filtering cellular shades with cordless operation allows the shade to stop at any length up to 72 in. tall. For windows less than 48 in. tall order the 48 in. height. For windows between 48 in. tall and 72 in. tall order the 72 in. length, you just simply lower the shade at the desired length. BlindsAvenue cordless option also means the cellular shades are perfect for child and pet safety. From home offices to living rooms, nurseries to basements, light filtering cellular shades are perfect for any area of your home or office. Browse our selection of colors and sizes now. We know that you will find something you love.",
+      {
+        "entities": [
+          [0, 12, "PRODUCT"],
+          [13, 18, "PRODUCT"],
+          [29, 37, "FEATURE"],
+          [59, 64, "FEATURE"],
+          [73, 79, "FEATURE"],
+          [103, 109, "TEMPERATURE"],
+          [128, 134, "TEMPERATURE"],
+          [195, 203, "FEATURE"],
+          [211, 223, "PRODUCT"],
+          [224, 237, "COLOR"],
+          [242, 256, "COLOR"],
+          [286, 292, "FEATURE"],
+          [320, 323, "PRODUCT"],
+          [348, 358, "FEATURE"],
+          [424, 431, "FEATURE"],
+          [446, 451, "FEATURE"],
+          [477, 489, "PRODUCT"],
+          [609, 621, "PRODUCT"],
+          [659, 667, "FEATURE"],
+          [668, 677, "FEATURE"],
+          [723, 729, "SIZE"],
+          [730, 735, "SIZE"],
+          [758, 760, "SIZE"],
+          [765, 769, "SIZE"],
+          [780, 782, "SIZE"],
+          [787, 794, "SIZE"],
+          [815, 817, "SIZE"],
+          [822, 826, "SIZE"],
+          [831, 837, "SIZE"],
+          [853, 855, "SIZE"],
+          [860, 866, "SIZE"],
+          [884, 889, "SIZE"],
+          [915, 922, "SIZE"],
+          [923, 935, "PRODUCT"],
+          [936, 944, "FEATURE"],
+          [967, 975, "FEATURE"],
+          [1009, 1012, "LIVING_BEING"],
+          [1013, 1020, "FEATURE"],
+          [1026, 1038, "AREA"],
+          [1042, 1054, "AREA"],
+          [1056, 1065, "AREA"],
+          [1069, 1078, "AREA"]
+        ]
+      }
+    ],
+    [
+      "Luverne SlimGrip truck running boards combine rugged style and durable construction to make the perfect side step for any truck. They feature powder-coated aluminum construction for long-lasting weather resistance, expanded metal treads for dependable traction and a sleek profile and angular end caps for an aggressive look on your truck. SlimGrip running boards are also equipped with the VersaTrac system for easy customization and each application installs with no drilling required.",
+      {
+        "entities": [
+          [0, 7, "ORG"],
+          [8, 16, "PRODUCT"],
+          [17, 22, "PRODUCT"],
+          [46, 52, "FEATURE"],
+          [63, 70, "FEATURE"],
+          [122, 128, "PRODUCT"],
+          [142, 155, "FEATURE"],
+          [156, 164, "MATERIAL"],
+          [182, 194, "FEATURE"],
+          [195, 202, "TEMPERATURE"],
+          [203, 213, "FEATURE"],
+          [391, 400, "PRODUCT"]
+        ]
+      }
+    ],
+    [
+      "Our Rustic Collection is an instant classic. Rustic wood millwork utilizes the technologies of today to build the 'log and timber' wood products that have been in architecture for centuries. Because our products are not kiln dried, each item in our Rustic Collection is 100% unique and will contain the natural variations that the wood species offers. Your wood bracket, corbel, rafter tail, will contain unique colors, grains, textures, knots, sapwood and heartwood content and possible sap bleeding and even natural checking, splitting and cracks. These natural variations are what make the Rustic Collection stand out from the rest. Be proud of your project; stand out from the cookie-cutter homes; use the Rustic Collection family of products.",
+      {
+        "entities": [
+          [36, 44, "FEATURE"],
+          [45, 51, "PRODUCT"],
+          [52, 56, "MATERIAL"],
+          [79, 91, "FEATURE"],
+          [114, 118, "MATERIAL"],
+          [123, 129, "MATERIAL"],
+          [131, 135, "MATERIAL"],
+          [270, 274, "PERCENTAGE"],
+          [379, 385, "MATERIAL"],
+          [420, 426, "FEATURE"],
+          [428, 436, "FEATURE"],
+          [438, 443, "FEATURE"],
+          [445, 452, "MATERIAL"],
+          [457, 466, "MATERIAL"]
+        ]
+      }
+    ],
+    [
+      "The 2-1/2 in. Cordless Premium Faux Wood Blind by Home Decorators Collection brings beauty and style to your home. Cordless blinds add a cleaner look and are safer for children and pets. These blinds are designed with 25% larger slats for a greater outside view. Specially designed \"no-hole\" slats offer total light and privacy control. The 3 in. decorative crown valance adds a contemporary style to your home and complements any decor. Slats are made from heat and moisture resistant material that is energy efficient and will not warp or crack. These blinds are ideally used for bathrooms, kitchens and garages. For maximum light and privacy control, rotate the slats downward to ensure proper closure.",
+      {
+        "entities": [
+          [4, 13, "SIZE"],
+          [23, 30, "FEATURE"],
+          [31, 35, "MATERIAL"],
+          [36, 40, "MATERIAL"],
+          [50, 54, "AREA"],
+          [84, 90, "FEATURE"],
+          [109, 114, "AREA"],
+          [137, 144, "FEATURE"],
+          [168, 176, "LIVING_BEING"],
+          [181, 186, "LIVING_BEING"],
+          [218, 221, "PERCENTAGE"],
+          [241, 248, "FEATURE"],
+          [249, 256, "AREA"],
+          [257, 262, "AREA"],
+          [320, 327, "FEATURE"],
+          [341, 346, "SIZE"],
+          [431, 437, "AREA"],
+          [458, 462, "TEMPERATURE"],
+          [467, 475, "TEMPERATURE"],
+          [503, 519, "FEATURE"],
+          [533, 537, "FEATURE"],
+          [541, 547, "FEATURE"],
+          [554, 560, "PRODUCT"],
+          [582, 591, "AREA"],
+          [593, 601, "AREA"],
+          [606, 614, "AREA"],
+          [619, 626, "FEATURE"],
+          [627, 632, "TEMPERATURE"],
+          [637, 644, "FEATURE"],
+          [654, 660, "FEATURE"]
+        ]
+      }
+    ],
+    [
+      "BEHR PREMIUM PLUS Interior Paint & Primer offers exceptional durability and hide with a finish that resists mildew and stains. In addition, you'll enjoy the benefits of a low odor paint. PREMIUM PLUS is highly ranked by independent 3rd party labs and meets LEED and GREENGUARD GOLD requirements.",
+      {
+        "entities": [
+          [0, 4, "PRODUCT"],
+          [5, 12, "FEATURE"],
+          [13, 17, "FEATURE"],
+          [18, 26, "AREA"],
+          [27, 32, "PRODUCT"],
+          [35, 41, "PRODUCT"]
+        ]
+      }
+    ],
+    [
+      "This lighted chrome finished ceiling fan can also call fandelier, unlike the other ceiling fan, the said item carries the 3 ABS blade for the fan by the outer 6 light bulbs surrounded by the shiny design that adds brighter illumination.",
+      {
+        "entities": [
+          [13, 19, "COLOR"],
+          [37, 40, "PRODUCT"],
+          [55, 64, "PRODUCT"],
+          [83, 94, "PRODUCT"],
+          [128, 133, "PRODUCT"],
+          [142, 145, "PRODUCT"],
+          [161, 166, "COLOR"],
+          [167, 172, "PRODUCT"],
+          [191, 196, "FEATURE"],
+          [197, 203, "FEATURE"],
+          [214, 222, "FEATURE"],
+          [223, 235, "FEATURE"]
+        ]
+      }
+    ],
+    [
+      "BEHR PREMIUM PLUS Exterior Paint & Primer is a 100% Acrylic, low VOC formula designed for a long-lasting finish that resists moisture, fading & stains and provides a mildew and corrosion resistant finish. It delivers exceptional hide and excellent touch-up while also providing comprehensive all-climate protection.",
+      {
+        "entities": [
+          [0, 4, "PRODUCT"],
+          [5, 12, "FEATURE"],
+          [13, 17, "FEATURE"],
+          [27, 32, "PRODUCT"],
+          [35, 41, "PRODUCT"],
+          [47, 51, "PERCENTAGE"],
+          [52, 59, "MATERIAL"],
+          [92, 104, "FEATURE"],
+          [125, 133, "TEMPERATURE"],
+          [135, 141, "FEATURE"],
+          [144, 150, "FEATURE"],
+          [166, 172, "FEATURE"],
+          [177, 186, "FEATURE"],
+          [187, 196, "FEATURE"],
+          [238, 247, "FEATURE"],
+          [292, 303, "TEMPERATURE"],
+          [304, 314, "FEATURE"]
+        ]
+      }
+    ],
+    [
+      "Our faux wood beams capture the rustic nature of authentic timber at a fraction of the cost and installation time. These hand-painted, lightweight high-density polyurethane beams are simple to install over a wood block securely attached to a ceiling, wall or doorway. Our hand-crafted beams offer a green alternative to hard-to-find real timber, with unmatched authentic wood look. Our beams boast deep, detailed wood textures molded from real wood, and our custom finishes offer limitless possibilities, enabling you to choose just the right color and texture for your home. Enjoy high-end style, at an affordable cost.",
+      {
+        "entities": [
+          [4, 8, "MATERIAL"],
+          [9, 13, "MATERIAL"],
+          [32, 38, "FEATURE"],
+          [39, 45, "FEATURE"],
+          [49, 58, "FEATURE"],
+          [59, 65, "MATERIAL"],
+          [121, 133, "FEATURE"],
+          [160, 172, "MATERIAL"],
+          [208, 212, "MATERIAL"],
+          [219, 227, "FEATURE"],
+          [242, 249, "AREA"],
+          [251, 255, "AREA"],
+          [259, 267, "AREA"],
+          [272, 284, "FEATURE"],
+          [338, 344, "MATERIAL"],
+          [371, 375, "MATERIAL"],
+          [413, 417, "MATERIAL"],
+          [444, 448, "MATERIAL"],
+          [543, 548, "COLOR"],
+          [553, 560, "FEATURE"],
+          [570, 575, "AREA"],
+          [591, 596, "FEATURE"],
+          [604, 614, "FEATURE"]
+        ]
+      }
+    ],
+    [
+      "Versatile farmhouse style meets a subtle design to round out this five-drawer chest, a clean lined addition to any aesthetic. Its scalloped details add a dash of dimension to your decor whether in the master bedroom, kid's room, play area, kitchen, bathroom or laundry room. Compact design is suited for empty corners or small-scale spaces alike, so it is truly a go anywhere organizing gem. Five equal sized drawers are ready to tuck away clothes, linens or virtually anything you can think of.",
+      {
+        "entities": [
+          [0, 9, "FEATURE"],
+          [20, 25, "FEATURE"],
+          [51, 56, "SHAPE"],
+          [66, 77, "PRODUCT"],
+          [78, 83, "PRODUCT"],
+          [87, 92, "FEATURE"],
+          [115, 125, "FEATURE"],
+          [217, 227, "AREA"],
+          [229, 238, "AREA"],
+          [240, 247, "AREA"],
+          [249, 257, "AREA"],
+          [261, 274, "AREA"],
+          [310, 317, "AREA"],
+          [321, 339, "AREA"],
+          [409, 416, "PRODUCT"],
+          [440, 447, "PRODUCT"]
+        ]
+      }
+    ],
+    [
+      "In true bohemian style, the Whimsicle Collection boasts an eclectic mix of tribal inspired, geometric, and classic floral motifs. Purposefully distressed vintage patinas in neutral, of-the-moment palettes make any Whimsicle Collection rug a versatile foundation for any style of decor. These expertly crafted low-profile area rugs are machine made of soft polyester for a seamless fit in your living room, bedroom, dining room, or home office. This modern area rug from the Whimsicle Collection adds a unique touch to your surroundings. An artistically inspired half tone technique in blue and ivory multicolor creates a sophisticated foundation for contemporary styles of decor. Machine made of soft polyester with a low profile for a seamless fit under your sofa, dining room table, or near areas that need door clearance.",
+      {
+        "entities": [
+          [3, 7, "FEATURE"],
+          [8, 16, "FEATURE"],
+          [17, 22, "FEATURE"],
+          [28, 37, "PRODUCT"],
+          [59, 67, "FEATURE"],
+          [92, 101, "FEATURE"],
+          [115, 121, "FEATURE"],
+          [196, 204, "MATERIAL"],
+          [270, 275, "FEATURE"],
+          [279, 285, "AREA"],
+          [326, 330, "MATERIAL"],
+          [335, 342, "PRODUCT"],
+          [351, 355, "FEATURE"],
+          [356, 365, "MATERIAL"],
+          [393, 399, "AREA"],
+          [406, 413, "AREA"],
+          [415, 421, "AREA"],
+          [422, 426, "AREA"],
+          [431, 435, "AREA"],
+          [436, 443, "AREA"],
+          [585, 589, "COLOR"],
+          [594, 599, "COLOR"],
+          [600, 610, "FEATURE"],
+          [701, 710, "MATERIAL"],
+          [760, 764, "PRODUCT"],
+          [766, 772, "AREA"],
+          [773, 777, "AREA"],
+          [778, 783, "PRODUCT"],
+          [788, 792, "AREA"],
+          [793, 798, "AREA"],
+          [809, 813, "PRODUCT"]
+        ]
+      }
+    ],
+    [
+      "NICOR's New PrimeChime Plus 2 (PRCP2) combines all the popular features of the original PrimeChime Plus now with expanded Smart Home Video Doorbell compatibility (see compatibility list). The PrimeChime Plus 2 features line voltage and low voltage together into a single unit with a built-in transformer. This makes installation clear and simple. The recessed chime hub features a matte white, snap-on faceplate that can be painted for a truly customized look to match your home's interior. The PrimeChime Plus 2 can be wired to two separate doorways, each with their own unique chime tone so you always know which door to answer. Have more entrances? Two units can be linked together to cover additional doorways and provide additional audio coverage in larger homes. This PrimeChime Plus 2 kit includes 1 lighted stucco button and 2 standard lighted buttons. Additional decorative and stucco buttons are also available in a variety of colors to match your home's exterior. This kit includes mounting hardware, installation instructions, and a 1-year warranty from NICOR.",
+      {
+        "entities": [
+          [0, 5, "PRODUCT"],
+          [12, 22, "PRODUCT"],
+          [31, 36, "PRODUCT"],
+          [88, 98, "PRODUCT"],
+          [122, 127, "FEATURE"],
+          [128, 132, "AREA"],
+          [133, 138, "FEATURE"],
+          [139, 147, "PRODUCT"],
+          [236, 239, "TEMPERATURE"],
+          [240, 247, "FEATURE"],
+          [360, 365, "FEATURE"],
+          [381, 386, "COLOR"],
+          [387, 392, "COLOR"],
+          [743, 751, "AREA"],
+          [755, 761, "AREA"],
+          [762, 768, "AREA"],
+          [852, 860, "PRODUCT"],
+          [894, 901, "PRODUCT"],
+          [980, 983, "PRODUCT"],
+          [1002, 1010, "PRODUCT"]
+        ]
+      }
+    ],
+    [
+      "DENSO is a leading supplier of radiators to OE car makers around the world. DENSO's OE experience and know-how ensure its products provide unmatched performance, reliability and fitment. Radiator performance is essential for proper engine cooling and function. DENSO's radiator configurations, tanks, fin pitch, core dimensions and materials meet OE manufacturer's rigid standards. All DENSO radiators pass its strict durability and function tests. As the result, DENSO radiators deliver reliable performance even under the most demanding conditions.",
+      {
+        "entities": [
+          [0, 5, "PRODUCT"],
+          [31, 40, "PRODUCT"],
+          [76, 81, "PRODUCT"],
+          [149, 160, "FEATURE"],
+          [162, 173, "FEATURE"],
+          [178, 186, "FEATURE"],
+          [187, 195, "PRODUCT"],
+          [196, 207, "FEATURE"],
+          [232, 238, "PRODUCT"],
+          [239, 246, "TEMPERATURE"],
+          [261, 268, "PRODUCT"],
+          [269, 277, "PRODUCT"],
+          [294, 299, "PRODUCT"],
+          [312, 316, "MATERIAL"],
+          [332, 341, "MATERIAL"],
+          [418, 428, "FEATURE"],
+          [464, 469, "PRODUCT"],
+          [497, 508, "FEATURE"]
+        ]
+      }
+    ],
+    [
+      "The Glidden 5-gal. Semi-Gloss Latex Exterior Paint is ideal for application on all exterior siding, trim, doors, shutters and fences. The 100% acrylic latex base resists color fading and other damage caused by UV rays and severe weather conditions. The mildew-resistant coating can be applied in temperatures as low as 35° F, allowing you an extended painting season.",
+      {
+        "entities": [
+          [30, 35, "MATERIAL"],
+          [45, 50, "MATERIAL"],
+          [143, 150, "MATERIAL"],
+          [151, 156, "MATERIAL"],
+          [193, 199, "FEATURE"],
+          [210, 212, "FEATURE"],
+          [213, 217, "FEATURE"],
+          [222, 228, "TEMPERATURE"],
+          [229, 236, "TEMPERATURE"],
+          [296, 308, "TEMPERATURE"],
+          [312, 315, "TEMPERATURE"],
+          [319, 324, "TEMPERATURE"],
+          [342, 350, "FEATURE"]
+        ]
+      }
+    ]
+  ]
+}

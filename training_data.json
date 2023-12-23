@@ -1,0 +1,49 @@
+[
+  {
+    "text": "This heavyweight, water-repellent hooded sweatshirt has a zip front for fast layering. ORIGINAL FIT. 13 oz., 75% cotton/25% polyester blend with Rain Defender durable water repellent. Attached, jersey-lined three-piece hood with drawcord closure. Antique-finish brass front zipper. Two front hand-warmer pockets have a hidden security pocket inside. Stretchable, spandex-reinforced rib-knit cuffs and waistband. Locker loop facilitates hanging.",
+    "entities": [
+      {"start": 118, "end": 140, "label": "Product Name"},
+      {"start": 144, "end": 186, "label": "Material"},
+      {"start": 188, "end": 214, "label": "Features"}
+    ]
+  },
+  {
+    "text": "If you need more length between your existing wireless device and Hi-Gain Antenna, this is the product for you. It's compatible with most Wi-Fi Antennas, so it is easy for you to extend your wireless network. Just replace your existing cable that runs between your wireless device and Antenna and you're ready to use your network with extended range.",
+    "entities": [
+      {"start": 112, "end": 129, "label": "Product Name"}
+    ]
+  },
+  {
+    "text": "Polyester cover resembling rich Italian tapestries wraps your pet in comfort and style. 100% recycled polyester high loft MemoryFiber fill keeps pets elevated off cold floors for relief on tired joints and pressure points. A great fit for pets up to 100 lbs. Zippered removable cover is machine washable in cold water only. To dry, use a delicate cycle or gentle setting with very low heat.",
+    "entities": [
+      {"start": 0, "end": 40, "label": "Material"}
+    ]
+  },
+  {
+    "text": "It features a rectangle shape. This vessel set is designed to be installed as an undermount vessel set. It is constructed with ceramic. This vessel set comes with an enamel glaze finish in White color. It is designed for a deck mount faucet.",
+    "entities": [
+      {"start": 50, "end": 72, "label": "Product Name"},
+      {"start": 144, "end": 150, "label": "Material"},
+      {"start": 171, "end": 186, "label": "Material"}
+    ]
+  },
+  {
+    "text": "This 9 in. black full grain leather logger boot is Tough. With plain soft toe and rubber outsole it provides dependable traction with a comfortable fit. It is made with Goodyear Welt Construction so it is sturdy and secure.",
+    "entities": [
+      {"start": 0, "end": 64, "label": "Product Name"},
+      {"start": 68, "end": 76, "label": "Material"}
+    ]
+  },
+  {
+    "text": "With robust structure and sophisticated canvas printing, this 3-panel screen is colorfully designed to be a great way to carve out space in your room or anywhere around the home. Not only will this elegant piece give you the needed exclusivity but it will also add inspiring style and beauty to your decor. This screen creatively features canvas print of a different and complementary images on each side. With its lightweight construction, our screen will definitely fill your space with inspiring visual flair for many-Years to come. 3-panel screen finished on both sides Canvas printing.",
+    "entities": [
+      {"start": 0, "end": 14, "label": "Product Name"}
+    ]
+  },
+  {
+    "text": "BEHR PRO i300 Semi-Gloss Interior Paint has a sleek, radiant sheen appearance. This professional quality latex paint has superior hide and coverage, excellent sprayability, spray and back-roll, and superior touch-up. Use on properly prepared and primed drywall, concrete, masonry, wood and metal surfaces in both residential and commercial applications.",
+    "entities": [
+      {"start": 0, "end": 30, "label": "Product Name"}
+    ]
+  }
+]

@@ -1,0 +1,40 @@
+{
+    "classes": [
+      "PERCENTAGE",
+      "MATERIAL",
+      "FEATURE",
+      "PRODUCT",
+      "SIZE",
+      "LIVING_BEING",
+      "TEMPERATURE",
+      "COLOR",
+      "SHAPE",
+      "ORG",
+      "AREA"
+    ],
+    "annotations": [
+      [
+        "This heavyweight, water-repellent hooded sweatshirt has a zip front for fast layering. ORIGINAL FIT. 13 oz., 75% cotton/25% polyester blend with Rain Defender durable water repellent. Attached, jersey-lined three-piece hood with drawcord closure. Antique-finish brass front zipper. Two front hand-warmer pockets have a hidden security pocket inside. Stretchable, spandex-reinforced rib-knit cuffs and waistband. Locker loop facilitates hanging.",
+        {
+          "entities": [
+            [5, 16, "FEATURE"],
+            [18, 33, "FEATURE"],
+            [41, 51, "PRODUCT"],
+            [109, 112, "PERCENTAGE"],
+            [124, 133, "MATERIAL"],
+            [145, 149, "FEATURE"],
+            [150, 158, "FEATURE"],
+            [159, 166, "FEATURE"],
+            [167, 183, "FEATURE"],
+            [194, 206, "FEATURE"],
+            [247, 261, "FEATURE"],
+            [262, 267, "MATERIAL"],
+            [292, 303, "FEATURE"],
+            [326, 334, "FEATURE"],
+            [350, 361, "FEATURE"],
+            [363, 381, "FEATURE"]
+          ]
+        }
+      ]
+    ]
+  }
